@@ -13,10 +13,4 @@ In the process of making the website, of course I encountered various difficulti
 
 # Some Footages of the Process: 
 ## Wireframes:
-![](Web 1920 – 1.png)
-![](Web 1920 – 2.png)
-![](Web 1920 – 3.png)
-![]
-![]
-![]
-![]
+
