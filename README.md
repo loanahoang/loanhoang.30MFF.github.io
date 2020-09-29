@@ -12,10 +12,10 @@ Our video has a funny, simple, and improvising style so I aimed to make a websit
 In the process of making the website, of course I encountered various difficulties. Up till now, there are still enhancing ideas that I have not finished yet. However, I am very satisfied with my result as I could not believe that I managed to created a website. This first assignment is a good start off for me to familiarized with designing on a digital screen size canvas. I believe that so far with this experience, I be able to do even better in the upcoming projects. 
 
 # Some Footages of the Process: 
-
-![]
-![]
-![]
+## Wireframes:
+![Web 1920 – 1.png]
+![Web 1920 – 2.png]
+![Web 1920 – 3.png]
 ![]
 ![]
 ![]
