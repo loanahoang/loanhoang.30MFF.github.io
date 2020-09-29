@@ -22,3 +22,4 @@ In the process of making the website, of course I encountered various difficulti
 ![](Screen%20Shot%202020-09-29%20at%201.45.32%20AM.png)
 ![](Screen%20Shot%202020-09-29%20at%2012.26.30%20AM.png)
 ![](Screen%20Shot%202020-09-29%20at%203.17.52%20AM.png)
+![](Screen%20Shot%202020-09-29%20at%204.03.58%20AM.png)
