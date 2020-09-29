@@ -16,3 +16,7 @@ In the process of making the website, of course I encountered various difficulti
 ![](Web%201920%20–%201.png)
 ![](Web%201920%20–%202.png)
 ![](Web%201920%20–%203.png)
+
+
+## Raw:
+![](Screen%20Shot%202020-09-29%20at%201.45.32%20AM.png)
