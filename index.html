@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>30MFF.COM</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="script" href="script.js">
 </head>
 
 <body>
@@ -15,7 +14,7 @@
             <ul>
                 <div class="logo"> <li><b>30MFF.com</b> </li></div>
                 <div class="links">
-                    <li><a href=" #watch ">
+                    <li><a href="#watch">
                         Watch</a>
                     </li>
                     <li><a href="#about">
@@ -34,30 +33,30 @@
     <h1>What do I do in QUARANTINE?</h1>
     <div class='border-container'>
         <div class='border'>
-            <img src='./hi/images/xpoon.png' alt='xpoon'>
+            <img id="xpoon" onclick= "playVideo('xpoon')" src='./hi/images/xpoon.png' alt='xpoon'>
             <h3 class='text-center'>xPoon</h3>
         </div>
         <div class='border'>
-            <img src='./hi/images/teepag.png' alt='teepag'>
+            <img id="teepag" onclick= "playVideo('teepag')" src='./hi/images/teepag.png' alt='teepag'>
             <h3 class='text-center'>Tpag</h3>
         </div>
         <div class='border'>
-            <img src='./hi/images/abble.png' alt='abble'>
+            <img id="abble" onclick= "playVideo('abble')" src='./hi/images/abble.png' alt='abble'>
             <h3 class='text-center'>aBBle</h3>
         </div>
         <div class='border'>
-            <img src='./hi/images/panana.png' alt='panana'>
+            <img id="panana" onclick= "playVideo('panana')" src='./hi/images/panana.png' alt='panana'>
             <h3 class='text-center'>Panana</h3>
         </div>
     </div>
     <br><br><br><br><br><br><br>
     <div id="watch">
-        <video width="100%"  controls>
+        <video width="100%" id="myVid" controls>
             <source src="./hi/images/30MFF.mp4" type="video/mp4">
             <source src="./hi/images/30MFF.mp4" type="video/ogg">
-        
         </video>
     </div>
+
     <div class="" id="about">
         <div class='detail'>
             <br> 
@@ -69,45 +68,57 @@
         </div>
        
         <div class='member'>
-            <div class='border'>
-                <video  loop autoplay>
+            <div class='border' id="loan" onmouseover="switchText('loan')" onmouseout="switchVideo('loan')">
+                <video  loop autoplay muted>
                     <source src="./hi/images/1080p.mov" type="video/mp4" >
                     <source src="./hi/images/1080p.mov" type="video/ogg">
                 </video>
                 <h3 class='text-center'>xPoon - Loan</h3>
             </div>
-            <div class='border'>
-                <video  loop autoplay>
+            <div class='border1' id="loantext">
+            <p class="bio">My name is Loan Hoang and I am currently a sophomore at New York University Abu Dhabi. I have a great passion for music, especially piano. </p>
+            </div>
+            <div class='border' id="ayesha" onmouseover="switchText('ayesha')" onmouseout="switchVideo('ayesha')">
+                <video  loop autoplay muted>
                     <source src="./hi/images/IMG_2562.mov" type="video/mp4">
                     <source src="./hi/images/IMG_2562.mov" type="video/ogg">
                 </video>
                 <h3 class='text-center'>Tpag - Ayesha</h3>
             </div>
-            <div class='border'>
-                <video  loop autoplay >
+            <div class='border1' id="ayeshatext">
+                <p class="bio">Hi! My name is Ayesha and I am a sophomore at NYUAD. I come from Lahore, Pakistan. I like traveling and availing just any opportunity to experience new things!
+                </p>
+            </div>
+            <div class='border' id="fatima" onmouseover="switchText('fatima')" onmouseout="switchVideo('fatima')">
+                <video  loop autoplay muted>
                     <source src="./hi/images/VID_20200923_180245.mp4"" type="video/mp4">
                     <source src="./hi/images/VID_20200923_180245.mp4" type="video/ogg">
                 </video>
                 <h3 class='text-center'>aBBle - Fatima</h3>
             </div>
-            <div class='border'>
-                <video  loop autoplay autoplay>
+            <div class='border1' id="fatimatext">
+                <p class="bio">I'm Fatima - a freshman from Pakistan. I plan on majoring in Computer Science and minoring in Interactive Media. I love graphic illustrations and acrylic pour painting videos.</p>
+            </div>
+            <div class='border' id="alpha" onmouseover="switchText('alpha')" onmouseout="switchVideo('alpha')">
+                <video  loop autoplay muted>
                     <source src="./hi/images/Snap.mov" type="video/mp4">
                     <source src="./hi/images/Snap.mov" type="video/ogg">
                 </video>
                 <h3 class='text-center'>Panana - Alpha</h3>
             </div>
+            <div class='border1' id="alphatext">
+                <p class="bio">Hi! My name is Alpha. I'm a sophomore majoring in Interactive Media and I enjoy musicals and sleeping in.</p>
+            </div>
         </div>
     </div>
-   <br>
 
    <div class="" id="staysafe">
-       <h1>Stay Safe</h1>
-   </div>
-   
-
+       <h1>Stay Safe and Healthy</h1>
+    </div>
+    <p id="staysafep">Beside staying physically healthy, remember to also take care of your mental health</p>
     
-
+   
+<script src="script.js"></script>
 </body>
 <br>
 <div class = 'top'>
