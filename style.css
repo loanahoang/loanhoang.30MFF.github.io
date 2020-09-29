@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-family:"Arial, Helvetica, sans-serif";
+    background-color: #f0f696;
+}
+nav{
+    width: 100vw;
+    background-color:#f5b5fc  ;
+} 
+.logo{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    color: black;
+}
+.wrapper{
+    width: 50vw;
+}
+
+.links{
+    margin-top: 25px;
+    width: 60vw;
+    margin-left: 100px;
+    display:flex;
+    justify-content: space-between;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #575151;
+}
+
+a{
+    text-decoration: none;
+    color: none;
+}
+
+  /* mouse over link */
+a:hover {
+    font-size: 200%; 
+  }
+ 
+ul{
+    display:flex;
+    justify-content: space-between;
+}
+
+li{ 
+    list-style-type: none;
+    display: inline; 
+}
+
+h1{
+    margin-top:120px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 75pt;
+    margin-bottom: 20px;
+}
+p{
+    
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 30pt;
+    color: #575151;
+   
+}
+.nav-bar{     
+    position:fixed;
+    padding-left:20px;
+    
+    top:0px;
+
+}
+.border{
+    
+    
+    width:200px;
+    height:300px;
+    margin:20px;
+    background-color: #fcb1b1;
+    
+    
+}
+img{
+    width:200px;
+    height:300px;
+}
+.border-container{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+#video{
+    margin:100px 0;
+}
+#about{
+    display:flex;
+    margin:200px 0px;
+    padding:0 10%;
+    
+    
+}
+.detail{
+    padding:0 5%;
+    width:50%;
+}
+.member{
+    width:60%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+.text-center{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.border video{
+    width:200px;
+    height:300px;
+    
+}
+#wrapper .text {
+    position:relative;
+    bottom:30px;
+    left:0px;
+    visibility:hidden;
+    }
+    
+    #wrapper:hover .text {
+    visibility:visible;
+    }
+.top{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: auto;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+
+
