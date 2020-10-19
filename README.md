@@ -26,3 +26,26 @@ In the process of making the website, of course I encountered various difficulti
 ## Finished:
 ![](Screen%20Shot%202020-09-29%20at%204.03.58%20AM.png)
 ![](Screen%20Shot%202020-09-29%20at%203.58.55%20AM.png)
+
+#### Assignment 2 : Comix Strip
+# Concept: 
+In this assignment, our team (Ishmal, Loan, Matthew, and Michael) is telling a story through our interactive comic website. 
+
+We have our comic named as "Last Moments" narrating events in one day before our main protagonist dies in a car accident. We want to express the unexpectedness of deaths through our story. 
+
+# Responsiblity:
+My responsibility for this project is leanning more on the artistic and building story side than on the technical web development. 
+
+I am responsible for the sript writing, framing the panels, color/images choosing, and media managing. More specifically, I am also in charged of finding the stock images, ambience sounds, and making the intro video. I also think that I am the person who help bonding the members and keep things on track. 
+
+# Difficulties: 
+In this project, the main difficulty that I encounter is conflicting in ideas due to different perspective about arts. We had disagreement on the font choosing, the size/ length of the video, the plot of the story, et cetera. Fortunately, we managed to compromise things to reach a futher goals of finishing our project. 
+
+The other difficulty that our group struggle with is the poor respect of deadline. Yet, at the end, I am happy that my team succeeded in reaching our goals. 
+
+# Improvements:
+As a team member, I am satisfied with my team's result. I am glad that despite all the challenges that we encounter, we managed to have an interesting comic for the class. 
+
+However, if I have more room for improvements, I would make the color palette more consistent between the book and the page. I would also figure out how to have the video have sound although it can be autoplayed and looped. 
+
+![](Screen%20Shot%202020-09-29%20at%203.58.55%20AM.png)
