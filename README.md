@@ -50,5 +50,6 @@ However, if I have more room for improvements, I would make the color palette mo
 
 ![](Comix1.png)
 ![](Comix2.png)
+![](Comix5.png)
 ![](Comix3.png)
 ![](Comix4.png)
