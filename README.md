@@ -46,7 +46,7 @@ The other difficulty that our group struggle with is the poor respect of deadlin
 ## Improvements:
 As a team member, I am satisfied with my team's result. I am glad that despite all the challenges that we encounter, we managed to have an interesting comic for the class. 
 
-However, if I have more room for improvements, I would make the color palette more consistent between the book and the page. I would also figure out how to have the video have sound although it can be autoplayed and looped. 
+However, if I have more room for improvements, I would make the color palette more consistent between the book and the website. I would also figure out how to have the video has sound while being autoplayed and looped. I would also want to have more responsive panels when mouse being hovered over them. 
 
 ![](Comix1.png)
 ![](Comix2.png)
