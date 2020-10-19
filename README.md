@@ -48,4 +48,7 @@ As a team member, I am satisfied with my team's result. I am glad that despite a
 
 However, if I have more room for improvements, I would make the color palette more consistent between the book and the page. I would also figure out how to have the video have sound although it can be autoplayed and looped. 
 
-![](Screen%20Shot%202020-09-29%20at%203.58.55%20AM.png)
+![](Comix1.png)
+![](Comix2.png)
+![](Comix3.png)
+![](Comix4.png)
