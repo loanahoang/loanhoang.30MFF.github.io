@@ -1,4 +1,4 @@
-#### Loan Hoang - COMMUNICATIONS LABS - Fall 2020
+#### Loan Hoang - COMMUNICATIONS LAB - Fall 2020
 # Assignment 1: 30MFF Website
 
 ## Concept: 
@@ -48,6 +48,14 @@ As a team member, I am satisfied with my team's result. I am glad that despite a
 
 However, if I have more room for improvements, I would make the color palette more consistent between the book and the website. I would also figure out how to have the video has sound while being autoplayed and looped. I would also want to have more responsive panels when mouse being hovered over them. 
 
+## Some Footages of the Process: 
+### Wireframes:
+![](Comix6.png)
+![](Comix7.png)
+![](Comix8.png)
+![](Comix9.png)
+
+### Finished:
 ![](Comix1.png)
 ![](Comix2.png)
 ![](Comix5.png)
