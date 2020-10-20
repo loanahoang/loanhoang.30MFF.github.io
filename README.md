@@ -36,12 +36,12 @@ We have our comic named as "Last Moments" narrating events in one day before our
 ## Responsiblity:
 My responsibility for this project is leanning more on the artistic and building story side than on the technical web development. 
 
-I am responsible for the sript writing, framing the panels, color/images choosing, and media managing. More specifically, I am also in charged of finding the stock images, ambience sounds, and making the intro video. I also think that I am the person who help bonding the members and keep things on track. 
+I am responsible for the sript writing, framing the panels, color/images choosing, and media managing. More specifically, I am also in charged of finding the stock images, ambience sounds, and making the intro video. 
 
 ## Difficulties: 
 In this project, the main difficulty that I encounter is conflicting in ideas due to different perspective about arts. We had disagreement on the font choosing, the size/ length of the video, the plot of the story, et cetera. Fortunately, we managed to compromise things to reach a futher goals of finishing our project. 
 
-The other difficulty that our group struggle with is the poor respect of deadline. Yet, at the end, I am happy that my team succeeded in reaching our goals. 
+The other difficulty that our group struggle with is the respect of deadline. Yet, at the end, I am happy that my team succeeded in reaching our goals. 
 
 ## Improvements:
 As a team member, I am satisfied with my team's result. I am glad that despite all the challenges that we encounter, we managed to have an interesting comic for the class. 
@@ -49,6 +49,8 @@ As a team member, I am satisfied with my team's result. I am glad that despite a
 However, if I have more room for improvements, I would make the color palette more consistent between the book and the website. I would also figure out how to have the video has sound while being autoplayed and looped. I would also want to have more responsive panels when mouse being hovered over them. 
 
 ## Some Footages of the Process: 
+The final result is definitely different from what we initially planned (as you can compared the wireframes with the finished version of the website).
+
 ### Wireframes:
 ![](Comix6.png)
 ![](Comix7.png)
