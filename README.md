@@ -28,6 +28,7 @@ In the process of making the website, of course I encountered various difficulti
 ![](Screen%20Shot%202020-09-29%20at%203.58.55%20AM.png)
 
 # Assignment 2 : Comix Strip
+## Website Link: https://ishmalkhalid.github.io/FinalMomentsComic/
 ## Concept: 
 In this assignment, our team (Ishmal, Loan, Matthew, and Michael) is telling a story through our interactive comic website. 
 
