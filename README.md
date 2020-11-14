@@ -88,8 +88,15 @@ In term of web development, my teammate is very proficient so we basically has n
 Personally, I think that there are a lot of spaces for further developmemt in the website, but mostly with the visual parts. After the class presentation, I think that our team might focused to much on the sound aspect and not as much in the visual of the website. I think there could have been more animation on our website so that it can be more lively. At the moment, I think compared to others', our website feel a bit too flat. 
 
 ## Some Footages of the Process:
-### Wireframes:
-
+### Idea Stages:
+![](Sound8.png)
+![](Sound7.png)
 
 ### Finished:
-
+![](Sound1.png)
+![](Sound2.png)
+![](Sound3.png)
+![](Sound4.png)
+![](Sound5.png)
+![](Sound6.png)
+![](Sound9.png)
