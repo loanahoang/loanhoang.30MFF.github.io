@@ -58,9 +58,38 @@ The final result is definitely different from what we initially planned (as you 
 ![](Comix8.png)
 ![](Comix9.png)
 
+
 ### Finished:
 ![](Comix1.png)
 ![](Comix2.png)
 ![](Comix5.png)
 ![](Comix3.png)
 ![](Comix4.png)
+
+# Assignment 3: SOUNDS LIKE
+## Website link: https://hasin-shabbir.github.io/soundProject/
+## Concept: 
+In the third assigment, me and my teammate - Hasin -  decided to create a sound experience on the website for the users. It is a journey to Pakistan and Vietnam through the countries' cultural music. 
+
+We created a plot by having our conversation as two friends who are interested in learning more about each other's culture. The plot is the glue to attach two different countries and two different culture. 
+
+The users of the website are first introduced to the context of the story with the conversation between to characters. After the conversation, the users will then be guided to the two countries. There, they will have the liberty to choose which music from which region of the country to experience. After choosing, the users will hear music and narration for that regional music. At the end of the journey, we concluded the story with an opening ending. The opening ending is implemented by giving the option to the users to suggest the destination that they want to have the same experience with in the future. The option is the suggesting box that the users can send opinions to the web developers. 
+
+Our main focus on this assignment is the sound; therefore, we agreed in not using words or any description to explain. Instead, we use narration and everything was kept minimal so that the user will not be distracted with the visual. 
+
+## Responsiblity:
+In this project, I am the person who is mostly responsible for creating the plot, editing the sound using Audacity, and visually designed the website. 
+
+## Difficulties:
+For me, there were not much difficulties on this project as me and my teammate get along well. 
+In term of web development, my teammate is very proficient so we basically has no problems in this. However, due to the fact that I did not contribute much in the code parts, I feel like I did not improve my coding skills as much as I wanted. Although the workload for this assignment for me is lighter than the previous ones, I do not enjoy the process and the result as much. After this, I think that I would push myself to envolve more into the coding parts to learn what I aimed when signing up for the course. 
+
+## Improvements:
+Personally, I think that there are a lot of spaces for further developmemt in the website, but mostly with the visual parts. After the class presentation, I think that our team might focused to much on the sound aspect and not as much in the visual of the website. I think there could have been more animation on our website so that it can be more lively. At the moment, I think compared to others', our website feel a bit too flat. 
+
+## Some Footages of the Process:
+### Wireframes:
+
+
+### Finished:
+
