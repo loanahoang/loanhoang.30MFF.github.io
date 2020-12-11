@@ -100,3 +100,45 @@ Personally, I think that there are a lot of spaces for further developmemt in th
 ![](Sound5.png)
 ![](Sound6.png)
 ![](Sound9.png)
+
+# Assignment 4: VID-E-OH!!!
+## Website link: 
+## Concept: 
+
+In this assignment, my team (Loan - Fatima - Shamma - Rashid) decided to create a website, a company, and an advertisement video to promote our "product": THE BOX.
+
+Although the requirment of this assignment is creating a website and a video, our team made a further step in order to create the most realistic scenario as possible by prototyping the box, having photoshoots for the box, et cetera.  
+
+"THE BOX" is introduced as a more friendly "Alexa" intergrated with the newest AI technology. Other than normal task that a virtual assistant can do, this product is a friend that can give the users advices, comforts, and responsive feedbacks about feelings. All of these characteristics were portrayed to the customers through our video. 
+
+Our product can speak 3 languages: English, Arabic, and French. We did not catergorize THE BOX's gender but instead, we just named two version of of THE BOX: Levon and Eiry. In term of THE BOX's voice, we ask two of our friends (Michael and Budoor) to do the voice over in the video and the voice previews on the website. 
+
+## Video Making Process: 
+### Plot: 
+As mentioned earlier, the video is the opportunity for us to introduce THE BOX's features. The features are described through stories of the users. The stories are written by each of the member of the team. We also introduce different colors and voices of THE BOX in our video. 
+
+The video starting with the CEO of the company (Loan) briefly welcoming the potential customers.
+Following, the first story is about a student (Shamma) having burnout and stress while doing her assignemnt. She then complains with THE BOX and THE BOX gives out advices for her to overcome her negative feelings. Here, we want to portray that the box is capable of giving responsive advice about feelings and how to feel better. 
+
+The second story is about a girl (Fatima) who works away from home and is having uncertainty about her family's feelings towards her. She is afraid that her mom would forget about her as she is not present at home. The girl is expecting to hear from her mom after not getting her message for a while. THE BOX here plays as a friend who try to console the girl with practical reasons why her mom is not responding and telling the girl not to overthink. 
+
+Lastly, the third story introduce a guy (Rashid) who forgot about his pratice day while doing homework. THE BOX in the story helps the person with remidning the guys' schedule and to-do list. Here in the third story, we introduce the male voice of THE BOX. 
+
+## Responsiblity:
+In this project, I am the member who is responsible for producing the media: finalizing the scripts, filming, editing, recording for voice over and voice preview, and taking photos of the box. 
+
+We used an IphoneXS for filming, voice record, and photos taking; Davinci Resolve for editing; Lightroom for color grading; and Photoshop for touching up the box.
+
+For THE BOX's voices, we edited them so that they do not sound like they come from the same space as the charaters' voices are in. We wanted our boxes' voices to be human-like and friendly as possible while maintain the not-human aspect of them. Therefore, the voices were recorded with real human voice and edited using the Equalizer in Davinci Resolve instead of using voice generator online. 
+
+Due to the fact that we filmed with a phone, the sound quality was not the best. Therefore, we decided to have dub for the video. Although the process of recording as syncing the voices to the image was hard, I am very happy with the result and the decision. 
+
+## Difficulties:
+In term of filming and media, there were not many significant problems that we encountered (I broke my phone gymbal after filming for Rashid's haha). 
+
+For the web development, we encountered a decent amount of difficulties due to the fact that we have a lot of media needed to be on the websites. We were ambitious about the interactivity of the website. Unfortunately, I was not the person who involved in the coding part so I did not know in specifically what was causing the problems. 
+
+## Improvements:
+Overall, I do think that this is a very nice project. However, there are still rooms for futher improvement. I think that if possible, we will design the layout of the website better. For example, we can touch up the logo of the company so that it become cleaner and more professional. Also, the font in the website can be more persistent. The color scheme of the website can also be adjust to make the product standout more as at the moment, there are too much color on the website. We can make the review section more realistic by using better photos. Last thing, we can spend more time in figuring out the slideshow for the photos with out breaking down the site.
+
+In conculsion, I think the website does deliver what our team inteded to introduce to the customer: colorful and friendly. I think that the website does offer a good user experience. 
