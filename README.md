@@ -148,5 +148,5 @@ In conculsion, I think the website does deliver what our team inteded to introdu
 ## Some Footages of the Process:
 ### Wireframes:
 
-[](Videoh1.png)
-[](Videoh2.png)
+![](Videoh1.png)
+![](Videoh2.png)
