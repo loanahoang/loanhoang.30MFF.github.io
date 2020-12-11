@@ -144,3 +144,6 @@ For the web development, we encountered a decent amount of difficulties due to t
 Overall, I do think that this is a very nice project. However, there are still rooms for futher improvement. I think that if possible, we will design the layout of the website better. For example, we can touch up the logo of the company so that it become cleaner and more professional. Also, the font in the website can be more persistent. The color scheme of the website can also be adjust to make the product standout more as at the moment, there are too much color on the website. We can make the review section more realistic by using better photos. Last thing, we can spend more time in figuring out the slideshow for the photos with out breaking down the site.
 
 In conculsion, I think the website does deliver what our team inteded to introduce to the customer: colorful and friendly. I think that the website does offer a good user experience. 
+
+## Some Footages of the Process:
+### Wireframes:
