@@ -127,6 +127,8 @@ Lastly, the third story introduce a guy (Rashid) who forgot about his pratice da
 ## Responsiblity:
 In this project, I am the member who is responsible for producing the media: finalizing the scripts, filming, editing, recording for voice over and voice preview, and taking photos of the box. 
 
+![](Boxes.png)
+
 We used an IphoneXS for filming, voice record, and photos taking; Davinci Resolve for editing; Lightroom for color grading; and Photoshop for touching up the box.
 
 For THE BOX's voices, we edited them so that they do not sound like they come from the same space as the charaters' voices are in. We wanted our boxes' voices to be human-like and friendly as possible while maintain the not-human aspect of them. Therefore, the voices were recorded with real human voice and edited using the Equalizer in Davinci Resolve instead of using voice generator online. 
